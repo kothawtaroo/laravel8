@@ -175,7 +175,7 @@
 									<a href="/checkout" class="link-term mercado-item-title">Checkout</a>
 								</li>
 								<li class="menu-item">
-									<a href="/contact" class="link-term mercado-item-title">Contact Us</a>
+									<a href="/contactus" class="link-term mercado-item-title">Contact Us</a>
 								</li>																	
 							</ul>
 						</div>

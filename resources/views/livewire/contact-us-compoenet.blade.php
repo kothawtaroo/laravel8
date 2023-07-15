@@ -37,24 +37,10 @@
 						<div class="col-lg-6 col-sm-6 col-md-6 col-xs-12">
 							<div class="contact-box contact-info">
 								<div class="wrap-map">
-									<div class="mercado-google-maps"
-										 id="az-google-maps57341d9e51968"
-										 data-hue=""
-										 data-lightness="1"
-										 data-map-style="2"
-										 data-saturation="-100"
-										 data-modify-coloring="false"
-										 data-title_maps="Kute themes"
-										 data-phone="088-465 9965 02"
-										 data-email="kutethemes@gmail.com"
-										 data-address="Z115 TP. Thai Nguyen"
-										 data-longitude="-0.120850"
-										 data-latitude="51.508742"
-										 data-pin-icon=""
-										 data-zoom="16"
-										 data-map-type="ROADMAP"
-										 data-map-height="263">
-									</div>
+									<div>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d473.53863031261733!2d95.319786!3d18.28747!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c741ed2508c7ef%3A0xa47e8608bdc9bd5d!2sMyat%20ThuTa%20Mobile%20%26%20Electronic!5e0!3m2!1sen!2sus!4v1689349657448!5m2!1sen!2sus" width="500" height="263" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                                    </iframe>
+                                    </div>
 								</div>
 								<h2 class="box-title">Contact Detail</h2>
 								<div class="wrap-icon-box">
@@ -63,7 +49,7 @@
 										<i class="fa fa-envelope" aria-hidden="true"></i>
 										<div class="right-info">
 											<b>Email</b>
-											<p>Support1@Mercado.com</p>
+											<p>Support1@Mtt.net</p>
 										</div>
 									</div>
 
@@ -71,7 +57,7 @@
 										<i class="fa fa-phone" aria-hidden="true"></i>
 										<div class="right-info">
 											<b>Phone</b>
-											<p>0123-465-789-111</p>
+											<p>09-465-789-111</p>
 										</div>
 									</div>
 
