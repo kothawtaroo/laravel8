@@ -16,6 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/color-01.css">
     @livewireStyles
+	
 </head>
 <body class="home-page home-01 ">
 
